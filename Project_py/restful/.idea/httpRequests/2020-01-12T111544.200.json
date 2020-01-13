@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "b_price": 20,
+      "id": 1,
+      "b_name": "水浒"
+    }
+  ],
+  "status": 200,
+  "message": "get success"
+}

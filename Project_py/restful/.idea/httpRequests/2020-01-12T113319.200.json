@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "b_price": 20,
+      "b_name": "水浒"
+    },
+    {
+      "id": 2,
+      "b_price": 30,
+      "b_name": "三国"
+    }
+  ],
+  "message": "get success",
+  "status": 200
+}

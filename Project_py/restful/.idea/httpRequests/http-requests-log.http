@@ -1,0 +1,184 @@
+DELETE http://127.0.0.1:8000/api/books/?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T114557.500.html
+
+###
+
+GET http://127.0.0.1:8000/api/books/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T114525.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/books/?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T114507.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/book/?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T114423.404.html
+
+###
+
+GET http://127.0.0.1:8000/api/book/(?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T114413.404.html
+
+###
+
+GET http://127.0.0.1:8000/api/book/?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T114222.404.html
+
+###
+
+GET http://127.0.0.1:8000/api/book/?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T114119.404.html
+
+###
+
+GET http://127.0.0.1:8000/api/books/?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T114046.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/books/?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T113319.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/books/?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T113231.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/books/?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T113044.200.json
+
+###
+
+DELETE http://127.0.0.1:8000/api/books/?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T112904.500.html
+
+###
+
+GET http://127.0.0.1:8000/api/books/?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T112823.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/books/?bookid=1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T111544.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/books/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T105237.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/books/?b_name=水浒&b_pirce=20
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T102159.500.html
+
+###
+
+POST http://127.0.0.1:8000/api/books/?b_name=abc&b_pirce=20
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T100740.500.html
+
+###
+
+POST http://127.0.0.1:8000/api/books/?b_name=水浒&b_pirce=20
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T100251.500.html
+
+###
+
+POST http://127.0.0.1:8000/api/books/?b_name=水浒&b_pirce=20
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T095945.500.html
+
+###
+
+POST http://127.0.0.1:8000/api/books/?b_name=水浒&b_pirce=20
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T095112.500.html
+
+###
+
+POST http://127.0.01:8000/api/books/?b_name=水浒&b_pirce=20
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T094859.500.html
+
+###
+
+POST http://127.0.01:8000/api/books/?b_name=水浒&b_price=20
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T094453.403.html
+
+###
+
+GET http://127.0.01:8000/api/books/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-01-12T094333.200.json
+
+###
+
